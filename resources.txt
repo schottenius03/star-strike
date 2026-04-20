@@ -1,4 +1,4 @@
-Assets
+ASSETS
 https://kenney.nl/assets/space-shooter-remastered
 
 Seamless SPace Backgrounds
@@ -6,3 +6,14 @@ https://screamingbrainstudios.itch.io/seamless-space-backgrounds?download
 
 Sound Effects
 https://kronbits.itch.io/freesfx
+
+SOUND GUIDE
+Retro_Gun_Laser_SingleShot_01 - enemy get hit
+Retro_Weapon_Gun_LoFi_03 - player get hit 
+Retro_Impact_20 - playerFire vs enemyFire
+
+Retro_Weird_07 - game over
+
+
+NOT IMPLEMENTED YET
+Retro_Success_Melody_04_-_electric_piano_2 - Winner 
