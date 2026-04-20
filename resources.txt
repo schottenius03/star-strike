@@ -11,8 +11,8 @@ SOUND GUIDE
 Retro_Gun_Laser_SingleShot_01 - enemy get hit
 Retro_Weapon_Gun_LoFi_03 - player get hit 
 Retro_Impact_20 - playerFire vs enemyFire
-
-Retro_Weird_07 - game over
+Retro_Negative_Melody_02_-_space_voice_pad - game over
+Retro_Blip_07 - next wave
 
 
 NOT IMPLEMENTED YET
