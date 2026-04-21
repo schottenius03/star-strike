@@ -17,3 +17,22 @@ Retro_Alarm_Long_02 - next wave
 
 NOT IMPLEMENTED YET
 Retro_Success_Melody_04_-_electric_piano_2 - Winner 
+
+
+ENEMY GUIDE
+A - enemyBlack1_Sprite
+B - enemyBlue3_Sprite
+C - enemyGreen4_Sprite (homing forward)
+D - ufoYellow_Sprite (homing still)
+E - enemyRed5_Sprite (boss)
+
+
+
+POINTS GUIDE 
+< 10 / wave 1
+>= 10 && < 30 / wave 2 
+>= 30 && < 50 / wave 3
+>= final boss
+
+
+
